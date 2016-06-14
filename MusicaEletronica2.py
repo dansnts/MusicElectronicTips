@@ -6,6 +6,8 @@ Dicionário dos principais tipos de Música eletrônica
 Developed by Dan
 
 Algoritmo que mostra alguns tipos de música eletrônica.
+Pesquisa dos tipos em: 
+http://musiartes.com.br/2015/11/os-principais-tipos-de-musica-eletronica/
 
 """
 
