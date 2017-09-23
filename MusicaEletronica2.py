@@ -45,7 +45,7 @@ print("=================================================")
 selected_word = ''
 while selected_word != 'sair':
     #Permite que o usuário escolha uma palavra e, em seguida, exiba o significado da mesma.
-    selected_word = input("\nQual tipo de música eletônica você deseja conhecer? (ou 'sair') ")
+    selected_word = input("\nQual tipo de música eletrônica você deseja conhecer? (ou 'sair') ")
     if selected_word in tiposmuselectro.keys():
         # Busca a palavra que o dicionário saiba.
         print("\n  %s: %s" % (selected_word, tiposmuselectro[selected_word]))
